@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Adam Zhang",
-    "label": "Assistant Professor of Finance",
+    "label": "",
     "image": "",
     "email": "czadamj@umn.edu",
     "phone": "",
@@ -24,7 +24,7 @@
   },
   "work": [
     {
-      "name": "Carlson School of Management, University of Minnesota",
+      "name": "University of Minnesota, Carlson School of Management",
       "position": "Assistant Professor of Finance",
       "url": "https://czadamj.github.io/",
       "startDate": "2023-07-03",
@@ -61,10 +61,22 @@
   ],
   /*"awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": "Gale and Steve Kohlhagen Fellowship in Economics",
+      "startDate": "2022",
+      "endDate": "2023",
+      "awarder": "Stanford Institute for Economic Policy Research (SIEPR)"
+    },
+    {
+      "title": "Bradley Graduate Fellowship",
+      "startDate": "2022",
+      "endDate": "2022",
+      "awarder": "Stanford Institute for Economic Policy Research (SIEPR)"
+    },
+    {
+      "title": "Fan Charitable Foundation Fellowship",
+      "startDate": "2017",
+      "endDate": "2020",
+      "awarder": "Stanford Institute for Economic Policy Research (SIEPR)"
     }
   ],*/
   "certificates": [],
