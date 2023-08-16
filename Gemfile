@@ -20,6 +20,7 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'thin' 
+    gem 'listen' 
 end
 group :other_plugins do
     gem 'feedjira'
