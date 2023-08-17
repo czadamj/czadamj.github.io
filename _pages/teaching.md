@@ -2,11 +2,20 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### University of Minnesota, Carlson School of Management
 
-Organize your courses by years, topics, or universities, however you like!
+- FINA 4321 - Portfolio Management and Performance Evaluation
+
+    - This course uses statistics to demonstrate how the construction of portfolios of 
+    individual securities impacts the risk return trade-off for investors through 
+    diversification.  Course presents models of pricing investor risk, impact of 
+    asset allocation on returns, active versus indexed portfolio management, and 
+    approaches to measure value added performance of investment portfolios.
+    prereq: 3001 or 3001H, CSOM major or math/actuarial science major or Management minor.
+
+    - Course Materials (UMN Login required): [2023 Fall B, Sections 003/004/005](https://canvas.umn.edu/courses/395103).
