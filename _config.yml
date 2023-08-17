@@ -7,11 +7,11 @@ first_name: Adam
 middle_name: 
 last_name: Zhang
 email: czadamj@umn.edu
-description: >
+description: #>
 
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+footer_text: #>
+  #Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
+  #Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords:  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -121,10 +121,10 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: sthelse # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+blog_name: # blog_name will be displayed in your blog page
+blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
+blog_description: 
+permalink:
 
 # Pagination
 pagination:
@@ -169,19 +169,19 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
     permalink: /news/:path/
   projects:
     output: true
     permalink: /projects/:path/
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 

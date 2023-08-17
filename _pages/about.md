@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor of Finance. <a href="czadamj@umn.edu">czadamj@umn.edu</a>.
+subtitle: Welcome! 
 
 profile:
   align: right
@@ -18,9 +18,8 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+I'm an Assistant Professor of Finance at the University of Minnesota Carlson School of Management. My research fields are macroeconomics and finance.
 
-Adam is an assistant professor at the University of Minnesota Carlson School of Management. 
+ I received my BS in Mathematics/Economics with Specialization in Computing and MA in Economics from the University of California, Los Angeles in 2017. I obtained my MA and PhD in Economics from Stanford University in 2023.
 
-His research is at the intersection of macroeconomics and finance. 
-
-Adam received his BS in Mathematics/Economics with Specialization in Computing and MA in Economics from the University of California, Los Angeles in 2017. He obtained his MA and PhD in Economics from Stanford University in 2023.
+You can reach me at <a href="czadamj@umn.edu">czadamj@umn.edu</a>.

@@ -2,14 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 ### University of Minnesota, Carlson School of Management
 
-- FINA 4321 - Portfolio Management and Performance Evaluation
+- [FINA 4321 - Portfolio Management and Performance Evaluation](https://canvas.umn.edu/courses/395103)
 
     - This course uses statistics to demonstrate how the construction of portfolios of 
     individual securities impacts the risk return trade-off for investors through 
@@ -18,4 +17,4 @@ nav_order: 5
     approaches to measure value added performance of investment portfolios.
     prereq: 3001 or 3001H, CSOM major or math/actuarial science major or Management minor.
 
-    - Course Materials (UMN Login required): [2023 Fall B, Sections 003/004/005](https://canvas.umn.edu/courses/395103).
+    - Terms: 2023 Fall B, Sections 003/004/005.
