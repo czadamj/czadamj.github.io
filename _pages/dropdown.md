@@ -7,7 +7,7 @@ nav_order: 3
 ---
 ### working papers
 
-[Before and After Target Date Investing: The General Equilibrium Implications of Retirement Saving Dynamics](../assets/pdf/ZhangA_TDF_GE_RET_SAV.pdf)
+[Before and After Target Date Investing: The General Equilibrium Implications of Retirement Saving Dynamics](../assets/pdf/ZhangA_JMP.pdf)
 
 This paper quantifies the general equilibrium effects of financial innovation that increases
 access to equity markets. I study an overlapping generations model with both idiosyncratic
