@@ -15,10 +15,10 @@ and aggregate risk, solved with machine learning techniques. A benchmark economy
 limited stock market participation and rebalancing frictions matches the current dynamics
 of macro aggregates, equity and bond returns, as well as wealth and portfolio concentration. A counterfactual experiment shows how widespread adoption of target date funds
 would improve risk sharing, reduce inequality, and generate substantial welfare gains for
-households in the bottom 90% of wealth distribution. The equity premium drops from
-6.4% to 1.7%, while the standard deviation of equity returns stabilizes from 21.9% to 14.6%.
-Target date investing redistributes 20-30% of wealth from the top 10% to the rest of the
-economy, and young agents benefit from better risk sharing. Outcomes are very close
+households in the bottom 90% of wealth distribution. The equity premium drops from 6.3%
+to 2.5%, while the standard deviation of equity returns stabilizes from 24.7% to 15.2%. Full
+adoption of target date funds would generate around 20% average welfare gains for people in the bottom 90% at the expense of the top 10% who lose by more than 50% through
+the redistribution of financial wealth. Asset pricing and welfare outcomes are very close
 between an economy with target date funds and one without any participation costs or
 rebalancing frictions.
 
