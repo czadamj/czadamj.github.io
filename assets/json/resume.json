@@ -58,34 +58,6 @@
       "courses": [
       ]
     }
-  ],"interests": [
-    {
-      "name": "Asset Pricing",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Macro-Finance","Market Structure"
-      ]
-    },{
-      "name": "Macroeconomics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Consumption/Savings","Inequality"
-      ]
-    },
-    {
-      "name": "Household Finance",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Retirement Saving","Housing"
-      ]
-    },
-    {
-      "name": "Machine Learning",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Structural Estimation","Deep Learning"
-      ]
-    }
   ],
   "projects": [
     {
