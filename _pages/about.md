@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>321 19th Avenue South</p>
-    <p>Room 3-117</p>
+    <p>Room 3-253</p>
     <p>Minneapolis, MN 55455</p>
 
 news: true  # includes a list of news items
