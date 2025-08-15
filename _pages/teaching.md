@@ -16,5 +16,3 @@ nav_order: 4
     asset allocation on returns, active versus indexed portfolio management, and 
     approaches to measure value added performance of investment portfolios.
     prereq: 3001 or 3001H, CSOM major or math/actuarial science major or Management minor.
-
-    - Terms: 2023 Fall B, Sections 003/004/005.
