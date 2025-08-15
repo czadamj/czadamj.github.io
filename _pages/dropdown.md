@@ -7,7 +7,7 @@ nav_order: 3
 ---
 ### working papers
 
-[Before and After Target Date Investing: The General Equilibrium Implications of Retirement Saving Dynamics](../assets/pdf/ZhangA_JMP.pdf)
+[Lifecycle Financial Portfolios in General Equilibrium](../assets/pdf/LifecycleFinPortGE.pdf)
 
 [The Effect of Inequality on Redistribution: An Econometric Analysis (with Michael Boskin and Kareem Elnahal)](https://www.nber.org/system/files/working_papers/w32492/w32492.pdf)
 
