@@ -18,17 +18,13 @@ affiliations:
   - name: Carlson School of Management, University of Minnesota
     url: https://carlsonschool.umn.edu/
 
-# Icon links are hidden in favor of the "Download CV" button under the bio and
-# the email address in the bio text. To show icon links again, uncomment & fill in:
-# links:
-#   - icon: at-symbol
-#     url: mailto:czadamj@umn.edu
-#   - icon: academicons/google-scholar
-#     url: https://scholar.google.com/citations?user=YOUR_ID
-#   - icon: academicons/orcid
-#     url: https://orcid.org/YOUR-ORCID
-#   - icon: brands/github
-#     url: https://github.com/czadamj
+# Google Scholar + ORCID shown as icons under the name. Email is in the bio text
+# and the CV is the "Download CV" button, so they're intentionally omitted here.
+links:
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=i80YFzcAAAAJ
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0008-0388-5680
 
 education:
   - degree: Ph.D. & M.A. in Economics
