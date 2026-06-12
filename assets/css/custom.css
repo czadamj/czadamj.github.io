@@ -1,0 +1,138 @@
+/* ============================================================
+   Custom overrides — Adam Zhang
+   ============================================================ */
+
+/* Shared content width */
+.prose:has(.bio-text) {
+  max-width: 60rem;
+}
+.bio-text {
+  max-width: 100%;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* ---- Working Papers: widen the block (default max-w-prose ≈ 680px) ---- */
+#papers .max-w-prose {
+  max-width: 60rem !important;
+}
+#papers .prose {
+  width: 100%;
+}
+.wp-list {
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* ---- Working Papers: collapsible cards (details/summary accordion) ---- */
+.wp-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 0.75rem;
+  background: #ffffff;
+  margin-bottom: 1.25rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+}
+.wp-card:last-child {
+  margin-bottom: 0;
+}
+
+/* Always-visible header: title + co-authors + PDF + chevron */
+.wp-summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 1.1rem 1.6rem;
+}
+.wp-summary::-webkit-details-marker {
+  display: none;
+}
+.wp-card[open] .wp-summary {
+  border-bottom: 1px solid #f1f3f5;
+}
+.wp-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+.wp-card .wp-head h3 {
+  margin: 0;
+  font-size: 1.15rem;
+  font-weight: 700;
+  line-height: 1.4;
+  color: #111827;
+}
+.wp-card .wp-authors {
+  font-weight: 400;
+  font-style: italic;
+  font-size: 0.8em;
+  color: #6b7280;
+}
+.wp-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  flex-shrink: 0;
+}
+.wp-card .wp-pdf {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.35rem 0.9rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #111827;
+  background: #ffffff;
+  border: 1px solid #d1d5db;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background-color 0.15s ease;
+}
+.wp-card .wp-pdf:hover {
+  background: #f3f4f6;
+}
+.wp-chevron {
+  color: #9ca3af;
+  font-size: 0.85rem;
+  transition: transform 0.2s ease;
+}
+.wp-card[open] .wp-chevron {
+  transform: rotate(180deg);
+}
+
+/* Revealed abstract */
+.wp-card p {
+  margin: 0;
+  padding: 1rem 1.6rem 1.3rem;
+  color: #374151;
+  line-height: 1.2; /* single-spaced */
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* Hide the Hugo Blox footer attribution + promo CTA (keeps the © line) */
+.powered-by {
+  display: none !important;
+}
+
+/* ---- CV page: match Honors & Awards width to Education/Experience exactly ----
+   Experience uses `max-w-4xl` (56rem) + `px-4 sm:px-6 lg:px-8`; replicate both so
+   the award cards line up pixel-for-pixel with the education cards. */
+#section-resume-awards .max-w-prose {
+  max-width: 56rem !important;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+@media (min-width: 640px) {
+  #section-resume-awards .max-w-prose {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+@media (min-width: 1024px) {
+  #section-resume-awards .max-w-prose {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}

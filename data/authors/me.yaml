@@ -1,0 +1,65 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Adam Zhang
+  given: Adam
+  family: Zhang
+role: Assistant Professor of Finance
+bio: |
+  I am an Assistant Professor of Finance at the University of Minnesota's
+  Carlson School of Management. My research is in macroeconomics and finance,
+  with a focus on lifecycle household portfolios, inequality, and asset pricing.
+  I earned my Ph.D. and M.A. in Economics from Stanford University, and an
+  M.A. in Economics and B.S. in Mathematics & Economics from UCLA. You can reach me at
+  [czadamj@umn.edu](mailto:czadamj@umn.edu).
+
+affiliations:
+  - name: Carlson School of Management, University of Minnesota
+    url: https://carlsonschool.umn.edu/
+
+# Icon links are hidden in favor of the "Download CV" button under the bio and
+# the email address in the bio text. To show icon links again, uncomment & fill in:
+# links:
+#   - icon: at-symbol
+#     url: mailto:czadamj@umn.edu
+#   - icon: academicons/google-scholar
+#     url: https://scholar.google.com/citations?user=YOUR_ID
+#   - icon: academicons/orcid
+#     url: https://orcid.org/YOUR-ORCID
+#   - icon: brands/github
+#     url: https://github.com/czadamj
+
+education:
+  - degree: Ph.D. & M.A. in Economics
+    institution: Stanford University
+    start: 2017-09-01
+    end: 2023-06-30
+  - degree: M.A. in Economics & B.S. in Mathematics & Economics
+    institution: University of California, Los Angeles
+    start: 2012-09-01
+    end: 2017-06-30
+    summary: |
+      B.S. summa cum laude, with Specialization in Computing; Phi Beta Kappa.
+
+experience:
+  - role: Assistant Professor of Finance
+    org: University of Minnesota, Carlson School of Management
+    start: 2023-08-01
+
+awards:
+  - title: Gale and Steve Kohlhagen Fellowship in Economics (SIEPR)
+    awarder: Stanford University
+    date: "2022-01-01"
+  - title: Bradley Graduate Fellowship (SIEPR)
+    awarder: Stanford University
+    date: "2022-01-01"
+  - title: Fan Charitable Foundation Fellowship
+    awarder: Stanford University · School of Humanities and Sciences
+    date: "2017-01-01"
+  - title: Phi Beta Kappa
+    awarder: University of California, Los Angeles
+    date: "2017-01-01"
+  - title: Outstanding Mathematics/Economics Student Award
+    awarder: UCLA Department of Mathematics
+    date: "2017-01-01"
