@@ -43,19 +43,39 @@ experience:
     org: University of Minnesota, Carlson School of Management
     start: 2023-08-01
 
+# `date` is shown verbatim by the resume-awards block when it isn't a parseable
+# date, so plain years / ranges render as-is (and still sort newest-first).
 awards:
   - title: Gale and Steve Kohlhagen Fellowship in Economics (SIEPR)
     awarder: Stanford University
-    date: "2022-01-01"
+    date: "2022–2023"
   - title: Bradley Graduate Fellowship (SIEPR)
     awarder: Stanford University
-    date: "2022-01-01"
+    date: "2022"
   - title: Fan Charitable Foundation Fellowship
     awarder: Stanford University · School of Humanities and Sciences
-    date: "2017-01-01"
-  - title: Phi Beta Kappa
-    awarder: University of California, Los Angeles
-    date: "2017-01-01"
+    date: "2017–2020"
+  - title: Highest Departmental Honors
+    awarder: UCLA Department of Mathematics
+    date: "2017"
+  - title: College Honors
+    awarder: UCLA College of Letters and Science
+    date: "2017"
+  - title: Joel Rothblatt Scholarship
+    awarder: UCLA College of Letters and Science
+    date: "2017"
   - title: Outstanding Mathematics/Economics Student Award
     awarder: UCLA Department of Mathematics
-    date: "2017-01-01"
+    date: "2017"
+  - title: Phi Beta Kappa
+    awarder: University of California, Los Angeles
+    date: "2017"
+  - title: Undergraduate Research Fellowship
+    awarder: UCLA Department of Economics
+    date: "2016–2017"
+  - title: Departmental Scholar
+    awarder: UCLA Department of Economics
+    date: "2015–2017"
+  - title: Stuart Waugh and Scott Waugh Scholarship
+    awarder: UCLA College of Letters and Science
+    date: "2015–2016"
