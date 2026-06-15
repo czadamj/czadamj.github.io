@@ -14,7 +14,7 @@ sections:
     content:
       text: |-
         A full PDF version of my CV is available
-        [here](uploads/ZhangA_CV.pdf).
+        [here](/uploads/ZhangA_CV.pdf).
     design:
       columns: '1'
   - block: resume-experience
