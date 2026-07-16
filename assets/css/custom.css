@@ -68,6 +68,21 @@
   font-size: 0.8em;
   color: #6b7280;
 }
+/* Journal status chip (e.g. R&R) shown after a paper title */
+.wp-card .wp-status {
+  display: inline-block;
+  margin-left: 0.4rem;
+  padding: 0.1rem 0.6rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  font-style: normal;
+  line-height: 1.5;
+  color: #065f46;
+  background: #ecfdf5;
+  border: 1px solid #a7f3d0;
+  border-radius: 0.5rem;
+  vertical-align: 0.12em;
+}
 .wp-actions {
   display: flex;
   align-items: center;
